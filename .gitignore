@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/benchmark_results/
+
+.claude/
+
+node_modules/
+.next/
+frontend/.env.local
+
+.DS_Store

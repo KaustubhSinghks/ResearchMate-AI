@@ -1,6 +1,8 @@
-# AI-Powered Personal Research Assistant
+# ResearchMate-AI
 
-Upload research papers, get structured summaries, chat with a paper (RAG), find related work, compare papers, take linked notes, browse a knowledge graph, and get literature-review support.
+An AI-powered research assistant for discovering, understanding, comparing, and organizing academic literature.
+
+ResearchMate-AI helps researchers, students, and developers work with research papers more efficiently. Upload a paper, generate structured summaries, ask questions using Retrieval-Augmented Generation (RAG), discover related research, compare papers, organize notes, explore citation relationships, and get assistance with literature reviews — all from a single platform.
 
 ## Stack
 - **Backend**: FastAPI, SQLAlchemy 2.0 + Alembic, Postgres + pgvector
